@@ -8,7 +8,6 @@ My background spans AWS-focused platform work, GitOps-style delivery, container 
 ---
 
 ### 📚 Currently leveling up
-- Finishing a dual-credential Master's in DevOps (México + Spain, UNIR), with a focus on modern platform engineering practices
 - CNCF Kubestronaut track: KCNA, KCSA, CKA, CKAD, CKS
 - AWS: SysOps Administrator (Associate) → DevOps Engineer (Professional)
 - Expert Certificate in Cybersecurity (MIU City University Miami)
@@ -25,6 +24,11 @@ My background spans AWS-focused platform work, GitOps-style delivery, container 
 - **Scripting / Glue:** Bash, Python
 - **Metrics & Logs:** CloudWatch, Prometheus/Grafana
 - **Automation mindset:** Everything versioned, everything reproducible, everything with an exit plan
+
+---
+
+### 🎓 Education
+- M.S. in Software Development & Operations (DevOps), dual credential (México + Spain, UNIR), completed March 2026
 
 ---
 
