@@ -28,6 +28,11 @@ I have spent 18+ years making infrastructure boring on purpose: secure, reliable
 - Built the platform behind a **nationwide pharmacovigilance system** handling **~1M reports a year**.
 - Owned the technical quality bar for **40+ production-realistic infrastructure environments** and authored **~100 evidence-based technical reviews**.
 
+### 🔧 Featured work
+Two end-to-end builds you can actually read:
+- **[Example Voting App on AWS EKS](https://github.com/ChristianOrrala/Tech-Challenge-TSTC01)**: Terraform (EKS, IRSA, ECR, EBS CSI), a custom Helm umbrella chart, and GitHub Actions OIDC CI/CD with no static secrets.
+- **[FastAPI productionized on Kubernetes](https://github.com/ChristianOrrala/Tech-Challenge-ATBL01)**: Helm umbrella chart, async PostgreSQL, and Prometheus plus Grafana, self-contained in a single k3d container.
+
 ### 🛠 Daily tools
 **Cloud** AWS (EKS, EC2, IAM, VPC, Fargate, SSM, CloudWatch), Azure
 **Orchestration** Kubernetes, Docker, Helm
