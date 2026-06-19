@@ -52,7 +52,16 @@ Two end-to-end builds you can actually read:
 - Mensa México member
 
 ### 🏠 Off the clock
-A homelab I run like production: Home Assistant, self-hosted services, Intel-accelerated camera transcoding, a terminal tuned within an inch of its life, and small AI agents wired into my own workflows. If it can be automated, I have probably already automated it.
+
+A homelab I run like production, and a few AI and automation builds that got out of hand. I build them spec-first, with AI agents in the loop:
+
+- **Agentic automation, treated like prod.** LLM-agent pipelines that turn messy real-world input into a finished result with no babysitting: OCR, agents that drive third-party web portals, and a cost-tiered model cascade that only escalates to the expensive model when the cheap path fails. The one I depend on daily runs on a typed, Postgres-backed orchestrator I wrote to replace a no-code tool, with SOPS-encrypted secrets, restic backups, Ansible, and CI with secret scanning. Anything I rely on should be boring and observable.
+- **A council of AI models that argues back.** Several models take debating personas, reason across rounds, vote, and converge on an answer instead of just agreeing with me. Built to fight model sycophancy, exposed as both an MCP server and a CLI.
+- **First place, Capital One México track, Genius Arena 2026.** With team Eonix I shipped a cloud-native, AI-powered financial-education platform, MVP built end to end with full spec-driven development on AWS serverless.
+- **The homelab itself.** A GitOps control plane, documented runbooks, Intel-accelerated camera transcoding, and observability, read-only by default. If a change is not reproducible, it does not ship.
+- **The terminal.** Six-plus machines across macOS, Linux, and Windows that look identical because I wrote a small cross-OS theming engine to keep them that way, down to a low-blue-light palette I tuned by hand for long nights.
+
+If it can be automated, I have probably already automated it.
 
 ### 📫 Let's talk
 - **LinkedIn:** [Christian Orrala](https://www.linkedin.com/in/christianorrala/)
